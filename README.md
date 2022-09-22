@@ -1,4 +1,4 @@
-# <Module 1 Challenge>
+# <Code-Refactor>
 
 # Horiseon
 
@@ -39,4 +39,4 @@ Created by [Ruihan Gao] - feel free to contact me!
 
 Email: toruig59@gmail.com
 
-Project Link: [https://ahhyaya.github.io/Module1-challenge/](https://ahhyaya.github.io/Module1-challenge/)
+Project Link: [https://ahhyaya.github.io/Code-refactor/](https://ahhyaya.github.io/Code-refactor/)
